@@ -172,3 +172,5 @@ int main() {
     lexicalAnalyzer(lex_input01);
     return 0;
 }
+
+//vérification
